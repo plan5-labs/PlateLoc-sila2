@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PlateLocController.Features/PlateLocController.Features.csproj" />
+  <Project Path="PlateLocController.Server/PlateLocController.Server.csproj" />
+</Solution>
