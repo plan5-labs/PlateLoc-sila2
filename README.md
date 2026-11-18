@@ -1,5 +1,10 @@
 # PlateLoc Controller
 
+> ⚠️ **Disclaimer**: This software is under active development. It comes with
+> **no warranty** and the authors accept **no liability** for any results or
+> damages. Use at your own risk, and verify safety before connecting to real
+> hardware.
+
 A C# SiLA Server for controlling the PlateLoc made by Agilent Technologies.
 
 ## About
